@@ -24,3 +24,4 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 # Output 
+![image](https://github.com/hoshini28/Correlation_Regression/assets/155607150/497174d8-6752-43fc-93b7-1df8369b4ecc)
